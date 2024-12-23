@@ -1,4 +1,13 @@
-## Hi there 👋
+[![Kasztandor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasztandor&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Kasztandor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasztandor&show_icons=true&theme=catppuccin_latte )](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasztandor&hide=jupyter%20notebook&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasztandor&hide=jupyter%20notebook&theme=catppuccin_latte )](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![](https://visitcount.itsvg.in/api?id=Kasztandor&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!--
 **Kasztandor/Kasztandor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
